@@ -4,7 +4,7 @@ Having lived across Korea, China, Cambodia, Vietnam, and now in Sydney, I’m a 
 
 ### 👤More about me 
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](linkedin.com/in/minseok-kim-a9731a273) [![My Skills](https://skillicons.dev/icons?i=notion)](https://helpful-shield-d0f.notion.site/Welcome-15690bbb052d44c5886a6fa566d887e9?pvs=4)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/minseok-kim-a9731a273) [![My Skills](https://skillicons.dev/icons?i=notion)](https://helpful-shield-d0f.notion.site/Welcome-15690bbb052d44c5886a6fa566d887e9?pvs=4)
 
 ---
 
