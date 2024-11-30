@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=600&size=30&pause=500000&color=FFFFFF&vCenter=true&width=435&lines=😊+About+me)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=600&size=30&pause=500000&color=FFFFFF&vCenter=true&width=435&lines=😊+About+me)](https://helpful-shield-d0f.notion.site/Welcome-15690bbb052d44c5886a6fa566d887e9?pvs=4)
 
 Having lived across Korea, China, Cambodia, Vietnam, and now in Sydney, I’m a recent university graduate and a programmer specializing in backend development and system operation. I have participated in and won awards in several hackathons, continuing to expand my experience across a vast array of other development fields.
 
@@ -8,7 +8,7 @@ Having lived across Korea, China, Cambodia, Vietnam, and now in Sydney, I’m a 
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=600&size=30&pause=50000&color=FFFFFF&vCenter=true&width=435&lines=🛠️+Technologies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=600&size=30&pause=50000&color=FFFFFF&vCenter=true&width=435&lines=🛠️+Technologies)](https://helpful-shield-d0f.notion.site/Welcome-15690bbb052d44c5886a6fa566d887e9?pvs=4)
 
 I'm a passionate Python enthusiast, but I make it a point to explore new languages whenever I step into a different environment. It keeps me learning and applying fresh technologies I haven’t encountered before.
 
@@ -35,7 +35,7 @@ I'm a passionate Python enthusiast, but I make it a point to explore new languag
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=600&size=30&pause=50000&color=FFFFFF&vCenter=true&width=435&lines=✨+Try+my+latest+project)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=600&size=30&pause=50000&color=FFFFFF&vCenter=true&width=435&lines=✨+Try+my+latest+project)](https://helpful-shield-d0f.notion.site/Welcome-15690bbb052d44c5886a6fa566d887e9?pvs=4)
 ![indicators-everywhere.gif](imgs/indicators-everywhere.gif)
 ### 🔗[Link to Website](https://indicatorseverywhere.min1870.com/) 🐈‍⬛[Link to Repository](https://github.com/min-1870/indicators_everywhere/)
 
