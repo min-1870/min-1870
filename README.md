@@ -35,7 +35,13 @@ I'm a passionate Python enthusiast, but I make it a point to explore new languag
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=600&size=30&pause=50000&color=FFFFFF&vCenter=true&width=435&lines=✨+Try+my+latest+project)](https://helpful-shield-d0f.notion.site/Welcome-15690bbb052d44c5886a6fa566d887e9?pvs=4)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=600&size=30&pause=50000&color=FFFFFF&vCenter=true&width=435&lines=✨+Try+my+recent+projects)](https://helpful-shield-d0f.notion.site/Welcome-15690bbb052d44c5886a6fa566d887e9?pvs=4)
+## UNI.CON
+![UNI.CON.gif](imgs/UNI.CON.gif)
+### 🔗[Link to Website](https://unicon.min1870.com/) 🐈‍⬛[Link to Repository](https://github.com/min-1870/uni.con/)
+This project is a social platform connecting students and schools. Built with Django and FAISS, it features an adaptive algorithm tailored to student interests and an anonymous posting system to promote open expression.
+
+## Indicators Everywhere
 ![indicators-everywhere.gif](imgs/indicators-everywhere.gif)
 ### 🔗[Link to Website](https://indicatorseverywhere.min1870.com/) 🐈‍⬛[Link to Repository](https://github.com/min-1870/indicators_everywhere/)
 
